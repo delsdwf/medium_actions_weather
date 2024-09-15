@@ -13,3 +13,4 @@ timestamp,last_updated,location,condition,temperature,feels_like,humidity,wind_s
 2024-09-15 03:21,2024-09-15 05:15,Valletta/Malta,Clear,19.2,19.2,56,27.7
 2024-09-15 03:30,2024-09-15 05:30,Valletta/Malta,Partly cloudy,19.1,19.1,60,27.7
 2024-09-15 03:45,2024-09-15 05:30,Valletta/Malta,Partly cloudy,19.1,19.1,60,27.7
+2024-09-15 03:54,2024-09-15 05:45,Valletta/Malta,Partly cloudy,19.3,19.3,60,27.7
