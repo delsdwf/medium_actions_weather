@@ -20,3 +20,4 @@ timestamp,last_updated,location,condition,temperature,feels_like,humidity,wind_s
 2024-09-17 22:10,2024-09-18 06:00,Changzhou/China,Partly Cloudy,24.5,27.4,96,12.6
 2024-09-18 22:10,2024-09-19 06:00,Changzhou/China,Mist,25.5,29.3,96,12.2
 2024-09-19 22:10,2024-09-20 06:00,Changzhou/China,Light rain shower,25.8,30.0,98,15.8
+2024-09-20 22:11,2024-09-21 06:00,Changzhou/China,Patchy rain nearby,22.5,24.8,92,23.8
