@@ -30,3 +30,4 @@ timestamp,last_updated,location,condition,temperature,feels_like,humidity,wind_s
 2024-09-27 22:10,2024-09-28 06:00,Changzhou/China,Sunny,19.3,19.3,87,9.7
 2024-09-28 22:09,2024-09-29 06:00,Changzhou/China,Sunny,21.3,21.3,90,11.2
 2024-09-29 22:09,2024-09-30 06:00,Changzhou/China,Mist,23.0,25.4,97,10.8
+2024-09-30 22:10,2024-10-01 06:00,Changzhou/China,Light rain shower,20.8,20.8,92,23.4
