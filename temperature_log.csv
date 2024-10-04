@@ -34,3 +34,4 @@ timestamp,last_updated,location,condition,temperature,feels_like,humidity,wind_s
 2024-10-01 22:10,2024-10-02 06:00,Changzhou/China,Sunny,14.7,13.8,59,14.4
 2024-10-02 22:12,2024-10-03 06:00,Changzhou/China,Sunny,13.5,12.2,64,15.1
 2024-10-03 22:11,2024-10-04 06:00,Changzhou/China,Sunny,13.5,13.1,73,8.3
+2024-10-04 22:10,2024-10-05 06:00,Changzhou/China,Patchy rain nearby,18.1,18.1,72,9.4
