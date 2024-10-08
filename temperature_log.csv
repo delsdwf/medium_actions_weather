@@ -38,3 +38,4 @@ timestamp,last_updated,location,condition,temperature,feels_like,humidity,wind_s
 2024-10-05 22:10,2024-10-06 06:00,Changzhou/China,Light drizzle,18.4,18.4,92,11.9
 2024-10-06 22:10,2024-10-07 06:00,Changzhou/China,Light drizzle,16.4,16.4,91,17.6
 2024-10-07 22:11,2024-10-08 06:00,Changzhou/China,Sunny,14.6,13.9,90,11.5
+2024-10-08 22:10,2024-10-09 06:00,Changzhou/China,Sunny,14.2,14.6,69,4.3
