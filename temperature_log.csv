@@ -190,3 +190,4 @@ timestamp,last_updated,location,condition,temperature,feels_like,humidity,wind_s
 2025-03-06 22:10,2025-03-07 06:00,Changzhou/China,Overcast,3.7,1.7,67,7.6
 2025-03-07 22:09,2025-03-08 06:00,Changzhou/China,Clear,3.7,2.3,82,5.8
 2025-03-08 22:09,2025-03-09 06:00,Changzhou/China,Clear,4.5,1.8,69,11.2
+2025-03-09 22:09,2025-03-10 06:00,Changzhou/China,Patchy rain nearby,8.9,7.4,92,9.7
