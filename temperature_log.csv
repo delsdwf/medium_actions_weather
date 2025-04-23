@@ -235,3 +235,4 @@ timestamp,last_updated,location,condition,temperature,feels_like,humidity,wind_s
 2025-04-20 22:11,2025-04-21 06:00,Changzhou/China,Sunny,14.0,13.1,79,12.6
 2025-04-21 22:12,2025-04-22 06:00,Changzhou/China,Light drizzle,19.9,19.9,98,11.5
 2025-04-22 22:11,2025-04-23 06:00,Changzhou/China,Partly Cloudy,15.0,15.0,75,3.6
+2025-04-23 22:12,2025-04-24 06:00,Changzhou/China,Cloudy,16.1,16.1,58,8.3
