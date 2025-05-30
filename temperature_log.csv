@@ -271,3 +271,4 @@ timestamp,last_updated,location,condition,temperature,feels_like,humidity,wind_s
 2025-05-27 22:12,2025-05-28 06:00,Changzhou/China,Partly Cloudy,20.0,20.0,66,17.3
 2025-05-28 22:12,2025-05-29 06:00,Changzhou/China,Sunny,17.9,17.9,78,7.2
 2025-05-29 22:12,2025-05-30 06:00,Changzhou/China,Sunny,19.8,19.8,67,9.7
+2025-05-30 22:12,2025-05-31 06:00,Changzhou/China,Overcast,21.2,21.2,53,14.0
