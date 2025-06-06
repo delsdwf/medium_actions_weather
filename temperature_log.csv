@@ -278,3 +278,4 @@ timestamp,last_updated,location,condition,temperature,feels_like,humidity,wind_s
 2025-06-03 22:12,2025-06-04 06:00,Changzhou/China,Sunny,21.9,21.9,70,5.8
 2025-06-04 22:11,2025-06-05 06:00,Changzhou/China,Sunny,23.6,25.3,65,12.6
 2025-06-05 22:11,2025-06-06 06:00,Changzhou/China,Sunny,23.2,25.1,63,13.7
+2025-06-06 22:12,2025-06-07 06:00,Changzhou/China,Light drizzle,25.4,27.6,80,3.6
