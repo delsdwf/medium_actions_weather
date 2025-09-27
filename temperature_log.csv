@@ -391,3 +391,4 @@ timestamp,last_updated,location,condition,temperature,feels_like,humidity,wind_s
 2025-09-24 22:11,2025-09-25 06:15,Changzhou/China,Fog,22.5,25.0,97,7.6
 2025-09-25 22:10,2025-09-26 06:00,Changzhou/China,Fog,23.0,25.5,97,8.6
 2025-09-26 22:11,2025-09-27 06:00,Changzhou/China,Mist,23.2,25.6,97,7.2
+2025-09-27 22:10,2025-09-28 06:00,Changzhou/China,Mist,23.8,26.4,96,5.4
