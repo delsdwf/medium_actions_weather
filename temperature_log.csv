@@ -413,3 +413,4 @@ timestamp,last_updated,location,condition,temperature,feels_like,humidity,wind_s
 2025-10-17 22:11,2025-10-18 06:15,Changzhou/China,Light rain shower,19.2,19.2,87,25.2
 2025-10-18 22:10,2025-10-19 06:00,Changzhou/China,Light drizzle,15.1,15.1,84,16.9
 2025-10-19 22:11,2025-10-20 06:00,Changzhou/China,Overcast,14.4,12.7,75,23.8
+2025-10-20 22:11,2025-10-21 06:15,Changzhou/China,Patchy rain nearby,12.1,9.9,80,21.2
