@@ -418,3 +418,4 @@ timestamp,last_updated,location,condition,temperature,feels_like,humidity,wind_s
 2025-10-22 22:10,2025-10-23 06:15,Changzhou/China,Partly Cloudy,11.7,10.2,76,14.0
 2025-10-23 22:11,2025-10-24 06:15,Changzhou/China,Partly Cloudy,12.3,11.2,77,11.5
 2025-10-24 22:12,2025-10-25 06:15,Changzhou/China,Partly Cloudy,13.3,12.6,78,10.1
+2025-10-25 22:10,2025-10-26 06:00,Changzhou/China,Patchy rain nearby,13.4,12.5,85,11.5
