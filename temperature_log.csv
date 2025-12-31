@@ -485,3 +485,4 @@ timestamp,last_updated,location,condition,temperature,feels_like,humidity,wind_s
 2025-12-28 22:12,2025-12-29 06:00,Changzhou/China,Clear,6.9,6.8,65,3.6
 2025-12-29 22:13,2025-12-30 06:00,Changzhou/China,Clear,7.0,4.8,81,11.5
 2025-12-30 22:13,2025-12-31 06:00,Changzhou/China,Overcast,6.6,3.6,66,16.6
+2025-12-31 22:13,2026-01-01 06:00,Changzhou/China,Heavy snow,2.0,-2.5,86,18.4
