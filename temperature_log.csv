@@ -509,3 +509,4 @@ timestamp,last_updated,location,condition,temperature,feels_like,humidity,wind_s
 2026-01-21 22:17,2026-01-22 06:15,Changzhou/China,Clear,-4.1,-8.2,51,10.1
 2026-01-22 22:15,2026-01-23 06:00,Changzhou/China,Clear,-0.3,-2.1,54,5.4
 2026-01-23 22:12,2026-01-24 06:00,Changzhou/China,Clear,0.8,-1.5,65,7.2
+2026-01-24 22:13,2026-01-25 06:00,Changzhou/China,Clear,3.6,0.3,74,13.3
