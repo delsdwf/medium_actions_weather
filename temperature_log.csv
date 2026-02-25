@@ -540,3 +540,4 @@ timestamp,last_updated,location,condition,temperature,feels_like,humidity,wind_s
 2026-02-22 22:16,2026-02-23 06:15,Nanjing/China,Clear,7.3,3.5,49,24.1
 2026-02-23 22:33,2026-02-24 06:30,Changzhou/China,Light drizzle,7.8,4.7,90,18.7
 2026-02-24 22:25,2026-02-25 06:15,Changzhou/China,Overcast,6.9,4.9,85,10.1
+2026-02-25 22:24,2026-02-26 06:15,Changzhou/China,Patchy rain nearby,8.7,7.0,82,10.8
