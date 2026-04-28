@@ -602,3 +602,4 @@ timestamp,last_updated,location,condition,temperature,feels_like,humidity,wind_s
 2026-04-25 22:28,2026-04-26 06:15,Changzhou/China,Sunny,13.1,12.4,82,9.0
 2026-04-26 22:29,2026-04-27 06:15,Changzhou/China,Sunny,15.9,15.9,83,8.6
 2026-04-27 22:41,2026-04-28 06:30,Changzhou/China,Light drizzle,13.5,12.2,84,15.8
+2026-04-28 22:47,2026-04-29 06:45,Changzhou/China,Light rain,9.6,7.8,94,11.9
