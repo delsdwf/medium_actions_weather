@@ -630,3 +630,4 @@ timestamp,last_updated,location,condition,temperature,feels_like,humidity,wind_s
 2026-05-23 22:43,2026-05-24 06:30,Changzhou/China,Light rain,23.1,25.5,95,18.7
 2026-05-24 22:49,2026-05-25 06:45,Changzhou/China,Mist,22.7,25.1,95,9.0
 2026-05-25 22:52,2026-05-26 06:45,Changzhou/China,Light rain,24.7,27.8,97,6.1
+2026-05-26 23:02,2026-05-27 07:00,Changzhou/China,Light rain shower,22.0,22.0,91,11.5
