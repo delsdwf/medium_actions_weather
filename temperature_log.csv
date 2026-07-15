@@ -680,3 +680,4 @@ timestamp,last_updated,location,condition,temperature,feels_like,humidity,wind_s
 2026-07-12 22:38,2026-07-13 06:30,Changzhou/China,Overcast,27.5,31.2,82,31.0
 2026-07-13 22:47,2026-07-14 06:30,Changzhou/China,Partly Cloudy,26.1,24.5,90,12.2
 2026-07-14 22:49,2026-07-15 06:30,Changzhou/China,Sunny,28.7,35.3,86,3.6
+2026-07-15 22:51,2026-07-16 06:30,Changzhou/China,Smoky haze,28.6,34.4,84,5.0
