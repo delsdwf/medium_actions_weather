@@ -688,3 +688,4 @@ timestamp,last_updated,location,condition,temperature,feels_like,humidity,wind_s
 2026-07-20 22:50,2026-07-21 06:30,Changzhou/China,Mist,23.5,18.4,95,5.8
 2026-07-21 22:46,2026-07-22 06:45,Changzhou/China,Mist,25.9,23.6,94,7.2
 2026-07-22 22:54,2026-07-23 06:30,Changzhou/China,Smoky haze,26.3,25.9,91,7.6
+2026-07-23 22:48,2026-07-24 06:30,Changzhou/China,Patchy light rain in area with thunder,26.9,31.0,94,7.6
