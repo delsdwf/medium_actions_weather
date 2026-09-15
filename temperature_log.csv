@@ -742,3 +742,4 @@ timestamp,last_updated,location,condition,temperature,feels_like,humidity,wind_s
 2026-09-12 23:37,2026-09-13 07:30,Changzhou/China,Sunny,22.0,23.9,81,6.1
 2026-09-13 23:48,2026-09-14 07:45,Changzhou/China,Sunny,22.0,23.0,78,9.7
 2026-09-15 00:05,2026-09-15 08:00,Changzhou/China,Overcast,21.7,21.4,64,9.7
+2026-09-15 23:51,2026-09-16 07:45,Changzhou/China,Smoky haze,20.8,21.6,74,6.5
