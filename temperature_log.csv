@@ -757,3 +757,4 @@ timestamp,last_updated,location,condition,temperature,feels_like,humidity,wind_s
 2026-09-28 00:10,2026-09-28 08:00,Changzhou/China,Moderate or heavy rain shower,22.0,23.6,97,15.1
 2026-09-29 01:22,2026-09-29 09:15,Changzhou/China,Light rain shower,20.3,20.3,93,17.3
 2026-09-30 00:55,2026-09-30 08:45,Changzhou/China,Mist,20.1,22.1,94,6.8
+2026-10-01 00:56,2026-10-01 08:45,Changzhou/China,Patchy rain nearby,19.1,17.4,88,20.9
